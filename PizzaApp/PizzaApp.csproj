@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
-    <IsTransformWebConfigDisabled>true</IsTransformWebConfigDisabled>  
+    <!--<IsTransformWebConfigDisabled>true</IsTransformWebConfigDisabled>-->  
 </PropertyGroup>
 
 
